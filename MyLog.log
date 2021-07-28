@@ -1,0 +1,89 @@
+2021-07-28 15:11:43,064 - root - INFO - Train Dataset Loaded
+2021-07-28 15:11:43,065 - root - INFO - Test Dataset Loaded
+2021-07-28 15:11:43,068 - root - INFO - Store Dataset Loaded
+2021-07-28 15:14:09,073 - root - INFO - Index(['Store', 'DayOfWeek', 'Date', 'Sales', 'Customers', 'Open', 'Promo',
+       'StateHoliday', 'SchoolHoliday'],
+      dtype='object')
+2021-07-28 15:14:11,301 - root - INFO - Index(['Id', 'Store', 'DayOfWeek', 'Date', 'Open', 'Promo', 'StateHoliday',
+       'SchoolHoliday'],
+      dtype='object')
+2021-07-28 16:49:10,958 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,008 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,073 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,089 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,115 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,144 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,252 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,262 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,277 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,295 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,311 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:11,323 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,519 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,525 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,667 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,674 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,700 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,718 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,719 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:17,819 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,034 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,045 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,151 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,158 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,169 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,189 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,198 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,259 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,417 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,421 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,501 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,517 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,550 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,554 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,668 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:18,826 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,033 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,048 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,062 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,077 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,081 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,102 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,173 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:19,301 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,217 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,231 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,249 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,265 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,274 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,284 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,371 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,493 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,755 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:20,785 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:22,563 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:24,217 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:25,912 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:25,919 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:31,016 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 16:49:31,395 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:04,267 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:04,314 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:05,821 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:05,867 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:05,945 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:05,983 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:06,137 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:06,157 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:06,290 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:32:06,342 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:18,686 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:18,695 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,018 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,050 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,124 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,159 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,329 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,349 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,484 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-28 18:33:19,534 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
