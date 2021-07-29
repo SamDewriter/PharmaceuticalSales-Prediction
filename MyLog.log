@@ -87,3 +87,5 @@
 2021-07-28 18:33:19,349 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 2021-07-28 18:33:19,484 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 2021-07-28 18:33:19,534 - matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+2021-07-29 07:23:48,162 - root - INFO - Before, (1017209, 23), (41088, 20)
+2021-07-29 07:23:48,576 - root - INFO - After, (1017209, 18), (41088, 16), (1017209, 18), (41088, 16)
