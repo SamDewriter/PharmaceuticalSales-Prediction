@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/daud/Desktop/Twitter/Week_3/mlruns/4
+experiment_id: '4'
+lifecycle_stage: active
+name: InitialModel

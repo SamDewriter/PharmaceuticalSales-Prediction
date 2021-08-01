@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/daud/Desktop/Twitter/Week_3/mlruns/1/68d18892b39b49c8b91da4473f2590b2/artifacts
+end_time: 1627778942784
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 68d18892b39b49c8b91da4473f2590b2
+run_uuid: 68d18892b39b49c8b91da4473f2590b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627777601056
+status: 3
+tags: []
+user_id: daud
