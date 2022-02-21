@@ -40,4 +40,4 @@ Random forests or random decision forests, according to Wikipedia, are an ensemb
 ### LSTM
 Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. It can process not only single data points (such as images), but also entire sequences of data (such as speech or video). LSTM networks are well suited for a classification task, processing and making predictions based on time series. Since LSTM is good for time series, we isolated the pharmaceutical data into time series data and created a deep learning model (LSTM) that is suitable for predictions. 
 
-A streamlit app was created to serve the model. The app allows users to upload the data as a csv file and predict - the deep learning model is running under the hood. 
+A streamlit app was created to serve the model. The app allows users to upload the data as a csv file and predict - the deep learning model is running under the hood. Here is the link https://github.com/SamDewriter/deployed_app to the repository that contains the code of the app.
